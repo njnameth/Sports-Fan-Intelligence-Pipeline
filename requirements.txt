@@ -1,0 +1,5 @@
+pandas>=2.0.0
+snowflake-connector-python[pandas]>=3.5.0
+rapidfuzz>=3.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
