@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Snowflake & Data
+.env
+*.csv
+!zip_reference.csv
